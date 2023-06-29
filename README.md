@@ -1,4 +1,4 @@
-# COPD_genetic
+# COPD_genetics
 This repository contains a pipeline for the GWAS and post-GWAS analysis on sputum metagenomic data for COPD patients, as well as related R scripts for data visualization.
 
 
